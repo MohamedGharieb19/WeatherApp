@@ -23,4 +23,4 @@ WeatherApp is a weather application that allows users to get current weather det
  
 
 # Video: 
-![Screenshot 1](screenshots/video.mov)
+![Video](screenshots/video.mov)
