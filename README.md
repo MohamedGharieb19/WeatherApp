@@ -20,3 +20,7 @@ WeatherApp is a weather application that allows users to get current weather det
   - SharedPreferences: For storing simple data like user preferences.
 - Architecture
   - Clean Architecture: Encourages separation of concerns.
+ 
+
+# Video: 
+![Screenshot 1](screenshots/video.mov)
